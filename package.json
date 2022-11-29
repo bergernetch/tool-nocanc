@@ -1,0 +1,13 @@
+{
+    "name": "tool-nocanc", 
+    "version": "0.3.6", 
+    "description": "nocanc is used to find NoCAN nodes and upload firmware to nodes", 
+    "keywords": ["tools", "nocanc", "nocan", "canzero"], 
+    "homepage": "https://github.com/omzlo/nocanc/blob/master/LICENSE", 
+    "license": "MIT License", 
+    "system": ["darwin_x86_64", "darwin_arm64"], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/omzlo/nocanc"
+    }
+}
