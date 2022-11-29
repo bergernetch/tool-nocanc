@@ -8,6 +8,6 @@
     "system": ["darwin_x86_64", "darwin_arm64"], 
     "repository": {
         "type": "git", 
-        "url": "https://github.com/omzlo/nocanc"
+        "url": "https://github.com/bergernetch/nocanc"
     }
 }
